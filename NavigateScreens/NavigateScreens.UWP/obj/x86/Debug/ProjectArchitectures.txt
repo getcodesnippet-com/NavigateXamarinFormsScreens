@@ -1,0 +1,2 @@
+E:\Projects\XamarinForms\NavigateScreens\NavigateScreens\NavigateScreens.UWP\NavigateScreens.UWP.csproj;x86
+E:\Projects\XamarinForms\NavigateScreens\NavigateScreens\NavigateScreens\NavigateScreens.csproj;neutral
